@@ -1,0 +1,17 @@
+zeta_zero: 1.
+v_remission: -0.046
+v_relapse: 0.012
+w_shape: 1.50
+w_scale: 2500
+variable: 'n_samples'
+n_reps: 100
+visit_freqs:
+  - 30
+sigmas:
+  - 1.00
+n_samples:
+  - 250
+  - 500
+  - 1000
+  - 5000
+  - 10000
